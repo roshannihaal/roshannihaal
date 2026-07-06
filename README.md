@@ -37,10 +37,13 @@ Currently exploring deeper backend patterns with **NestJS**.
 
 ---
 
-## 🔧 Backend Tools
+## 🔧 ORMs & Backend Tools
 
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ---
 
@@ -51,7 +54,7 @@ Currently exploring deeper backend patterns with **NestJS**.
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 - Building event-driven communication between services
-- Working with producers, consumers, queues, and consumer groups
+- Working with message queues, producers, consumers, and consumer groups
 
 ---
 
@@ -89,8 +92,6 @@ I use Python for algorithms, data structures, and problem solving.
 ![Roshan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=roshannihaal&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=roshannihaal&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=roshannihaal&theme=tokyonight&hide_border=true)
 
 ---
 
